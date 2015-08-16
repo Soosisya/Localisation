@@ -3,28 +3,28 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railway
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Boat Ride
-STR_0011    :Wooden Wild Mouse
+STR_0002    :Спиральные горки
+STR_0003    :Стоячие горки
+STR_0004    :Подвесные раскачивающиеся горки
+STR_0005    :Обратные горки
+STR_0006    :Детские горки
+STR_0007    :Миниатюрная железная дорога
+STR_0008    :Монорельс
+STR_0009    :Мини стоячие горки
+STR_0010    :Заезд на лодках
+STR_0011    :Деревянная дикая мышь
 STR_0012    :Steeplechase
-STR_0013    :Car Ride
-STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
-STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
-STR_0023    :Spiral Slide
+STR_0013    :Заезд на машиинах
+STR_0014    :Запуск в свободное подение
+STR_0015    :Бобслей
+STR_0016    :Смотровая башня
+STR_0017    :Петляющие горки
+STR_0018    :Скольжение в шлюпке
+STR_0019    :Горки в шахте
+STR_0020    :Кресельный лифт
+STR_0021    :Штопорные горки
+STR_0022    :Лабиринт
+STR_0023    :Спуск по спирали
 STR_0024    :Go Karts
 STR_0025    :Log Flume
 STR_0026    :River Rapids
